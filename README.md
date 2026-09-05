@@ -22,6 +22,6 @@ JavaScript
 
 Construir uma base sólida em programação, desenvolver projetos e evoluir cada vez mais como desenvolvedor.
 
-📫 Vamos nos conectar?
+## 📫 Vamos nos conectar?
 
-LinkedIn • GitHub
+[LinkedIn](https://www.linkedin.com/in/matheusmenino/)
