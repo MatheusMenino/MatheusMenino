@@ -13,17 +13,15 @@
 🗄️ MySQL
 🔧 Git
 🐙 GitHub
-
 📚 Atualmente estudando
 Lógica de programação
 Desenvolvimento Web
 Banco de dados
 JavaScript
-
 🎯 Objetivo
 
 Construir uma base sólida em programação, desenvolver projetos e evoluir cada vez mais como desenvolvedor.
 
 📫 Vamos nos conectar?
 
-🔗 LinkedIn • GitHub
+LinkedIn • GitHub
