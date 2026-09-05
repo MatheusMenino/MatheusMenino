@@ -6,24 +6,18 @@
 
 🚀 Sempre buscando aprender e colocar novos conhecimentos em prática.
 
-🛠️ Tecnologias que estou estudando
-
+🛠️ Tecnologias e ferramentas
 🟨 JavaScript
-
+🌐 HTML
+🎨 CSS
 🗄️ MySQL
-
-🌐 HTML & CSS
-
-💻 Git & GitHub
+🔧 Git
+🐙 GitHub
 
 📚 Atualmente estudando
-
 Lógica de programação
-
 Desenvolvimento Web
-
 Banco de dados
-
 JavaScript
 
 🎯 Objetivo
@@ -32,4 +26,4 @@ Construir uma base sólida em programação, desenvolver projetos e evoluir cada
 
 📫 Vamos nos conectar?
 
-LinkedIn • GitHub
+🔗 LinkedIn • GitHub
