@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Olá! Eu sou o Matheus
 
-<!--
-**MatheusMenino/MatheusMenino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na São Paulo Tech School (SPTech)
+💻 Desenvolvedor em formação
+🚀 Sempre buscando aprender e colocar novos conhecimentos em prática.
 
-Here are some ideas to get you started:
+🛠️ Tecnologias que estou estudando
+🟨 JavaScript
+🗄️ MySQL
+🌐 HTML & CSS
+💻 Git & GitHub
+📚 Atualmente estudando
+Lógica de programação
+Desenvolvimento Web
+Banco de dados
+JavaScript
+🎯 Objetivo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Construir uma base sólida em programação, desenvolver projetos e evoluir cada vez mais como desenvolvedor.
+
+📫 Vamos nos conectar?
+
+LinkedIn • GitHub
