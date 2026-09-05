@@ -25,3 +25,5 @@ Construir uma base sólida em programação, desenvolver projetos e evoluir cada
 ## 📫 Vamos nos conectar?
 
 [LinkedIn](https://www.linkedin.com/in/matheusmenino/)
+
+[GitHub](https://github.com/MatheusMenino)
